@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[Lynda Montgomery]]></title>
+  <subtitle><![CDATA[Blog]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://montgol.github.io/atom.xml/"/>
+  <updated>2015-01-12T02:47:48.354Z</updated>
+  <id>http://montgol.github.io/atom.xml/</id>
+  
+  <author>
+    <name><![CDATA[Lynda Montgomery]]></name>
+    <email><![CDATA[lynda.montgomery@me.com]]></email>
+  </author>
+  
+  <generator uri="http://zespia.tw/hexo/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Monty Hall]]></title>
+    <link href="http://montgol.github.io/atom.xml/2015/01/11/Monty-Hall/"/>
+    <id>http://montgol.github.io/atom.xml/2015/01/11/Monty-Hall/</id>
+    <published>2015-01-12T01:53:02.000Z</published>
+    <updated>2015-01-12T02:47:39.000Z</updated>
+    <content type="html"><![CDATA[<p>Had fun today writing Javascript to run 1000 trials of the Monty Hall problem…..  Can’t wait for the first day of class tomorroow!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Had fun today writing Javascript to run 1000 trials of the Monty Hall problem…..  Can’t wait for the first day of class tomorroow!</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Back to Work..]]></title>
+    <link href="http://montgol.github.io/atom.xml/2014/12/26/Back-to-Work/"/>
+    <id>http://montgol.github.io/atom.xml/2014/12/26/Back-to-Work/</id>
+    <published>2014-12-26T13:16:02.000Z</published>
+    <updated>2014-12-26T13:19:40.000Z</updated>
+    <content type="html"><![CDATA[<p>Fantastic Christams Eve and Christmas Day with my family! Now it has to be back to work! </p>
+<p>Today I think I will work on my Guessing Game Project. Let’s see how it goes!  </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Fantastic Christams Eve and Christmas Day with my family! Now it has to be back to work! </p>
+<p>Today I think I will work on my Guessing]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Fun with Functions]]></title>
+    <link href="http://montgol.github.io/atom.xml/2014/12/14/Fun-with-Functions/"/>
+    <id>http://montgol.github.io/atom.xml/2014/12/14/Fun-with-Functions/</id>
+    <published>2014-12-14T18:21:06.000Z</published>
+    <updated>2014-12-14T18:24:27.000Z</updated>
+    <content type="html"><![CDATA[<p>Today was a day filled with javascript functions.  After practicing functions on treehouse and codeschool, I felt confident to try to complete test_first_javascript test of functions.  I feel I did pretty well….. much better than some of the other tests.  I think it is due to the fact that I did a lot of work understanding the concept before trying to brute-force my way throught it.</p>
+<p>Learn something new each day!!!! </p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Today was a day filled with javascript functions.  After practicing functions on treehouse and codeschool, I felt confident to try to com]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Accomplishments]]></title>
+    <link href="http://montgol.github.io/atom.xml/2014/12/07/Accomplishments/"/>
+    <id>http://montgol.github.io/atom.xml/2014/12/07/Accomplishments/</id>
+    <published>2014-12-07T18:35:10.000Z</published>
+    <updated>2014-12-07T18:44:45.000Z</updated>
+    <content type="html"><![CDATA[<p>Isn’t it great when you get that awesome feeling when you know you’ve learned something?</p>
+<p>Yesterday I was having trouble understanding Higher-Order Fuctions in Javascript.  After reaching out for help, Ben lead me to an excerpt from eloquent Javascript in which they pointed out that the term come from mathematics.  After making that connection and going through an example that Scott helped me with…. today it seems so easy!  Question myself now as to why I had trouble in the first place.  </p>
+<p>Well, that is the thing about learning.  When you don’t know something, it seems HARD…. but once learned, it is EASY.  Comes down to just getting experience in learning what you don’t know.</p>
+<p>Today it’s on to some more Javascript.  After creating a new function in a program I had already started, I was able to easily use git to make a commit and push it to Github. </p>
+<p>Accomplishment!!  Looking forward to more of these as the days progress at Fullstack Academy!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Isn’t it great when you get that awesome feeling when you know you’ve learned something?</p>
+<p>Yesterday I was having trouble understand]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Another day coding]]></title>
+    <link href="http://montgol.github.io/atom.xml/2014/11/24/Another-day-coding/"/>
+    <id>http://montgol.github.io/atom.xml/2014/11/24/Another-day-coding/</id>
+    <published>2014-11-25T00:06:23.000Z</published>
+    <updated>2014-11-25T00:09:52.000Z</updated>
+    <content type="html"><![CDATA[<p>Worked on javascript today!!!!! Learning more everyday!</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Worked on javascript today!!!!! Learning more everyday!</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Will Learning to Code Empower Me?]]></title>
+    <link href="http://montgol.github.io/atom.xml/2014/11/24/Will-Learning-To-Code-Empower-Me-0/"/>
+    <id>http://montgol.github.io/atom.xml/2014/11/24/Will-Learning-To-Code-Empower-Me-0/</id>
+    <published>2014-11-24T23:06:23.000Z</published>
+    <updated>2014-11-25T00:12:59.000Z</updated>
+    <content type="html"><![CDATA[<p>Coming from a mathematical background, I’ve spent years building mathematical models to describe the behavior of a system.  These systems have ranged from statistics, to biology, and computer science.  I’ve used modeling software, including Matlab, to help get a hands on visual model of a system.  While doing this, I have realized how much there is to learning about coding.</p>
+<p>Matthew Kirschenbaum has written about learning to code in order to understand computers as “engines for creating powerful and persuasive models of the world around us.”  I feel that my getting a stronger understanding and capability of coding, it will make me a stronger applied mathematician.</p>
+<p>By definition the word empower means to make someone stronger and more confident.  By being empowered, we learn more, experience more, and can do more.  I look forward to how learning to code is going to empower me.</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Coming from a mathematical background, I’ve spent years building mathematical models to describe the behavior of a system.  These systems]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Update]]></title>
+    <link href="http://montgol.github.io/atom.xml/2014/11/18/Update/"/>
+    <id>http://montgol.github.io/atom.xml/2014/11/18/Update/</id>
+    <published>2014-11-18T21:10:03.000Z</published>
+    <updated>2014-11-18T21:10:03.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Will Learning to Code Empower Me?]]></title>
+    <link href="http://montgol.github.io/atom.xml/2014/11/18/Will-Learning-to-Code-Empower-Me/"/>
+    <id>http://montgol.github.io/atom.xml/2014/11/18/Will-Learning-to-Code-Empower-Me/</id>
+    <published>2014-11-18T14:33:08.000Z</published>
+    <updated>2014-11-18T14:33:08.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://montgol.github.io/atom.xml/2014/11/17/hello-world/"/>
+    <id>http://montgol.github.io/atom.xml/2014/11/17/hello-world/</id>
+    <published>2014-11-17T22:10:46.000Z</published>
+    <updated>2014-11-17T22:10:46.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">trobuleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2>
+<h3 id="Create_a_new_post">Create a new post</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3>
+<figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://montgol.github.io/atom.xml/2014/10/16/Hello-World-0/"/>
+    <id>http://montgol.github.io/atom.xml/2014/10/16/Hello-World-0/</id>
+    <published>2014-10-16T21:54:03.000Z</published>
+    <updated>2014-10-16T21:54:03.000Z</updated>
+    <content type="html"><![CDATA[]]></content>
+    <summary type="html">
+    <![CDATA[]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
